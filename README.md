@@ -34,7 +34,7 @@
 
 ```bash
 # Download and run the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/ollama-stack/main/install.sh
+wget https://raw.githubusercontent.com/shahinst/ollama-stack/install.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
@@ -43,7 +43,7 @@ sudo ./install.sh
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/shahinst/ollamastack.git
+git clone https://github.com/shahinst/ollamastack/ollamastack.git
 cd ollama-stack
 ```
 
@@ -213,7 +213,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
 2. Search existing [Issues](https://github.com/shahinst/ollamastack/issues)
-3. Create a new [Issue](https://github.com/shahinst/ollamastack//issues/new) with:
+3. Create a new [Issue](https://github.com/shahinst/ollamastack/issues/new) with:
    - Your OS version
    - Error messages
    - Relevant log outputs
