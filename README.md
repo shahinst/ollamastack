@@ -43,7 +43,7 @@ sudo ./install.sh
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/shahinst/ollamastack/ollamastack.git
+git clone https://github.com/shahinst/ollamastack.git
 cd ollama-stack
 ```
 
