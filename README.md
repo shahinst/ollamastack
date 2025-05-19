@@ -39,24 +39,6 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 
-### Manual Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/shahinst/ollamastack.git
-cd ollama-stack
-```
-
-2. Make the script executable:
-```bash
-chmod +x install.sh
-```
-
-3. Run the installation script:
-```bash
-sudo ./install.sh
-```
-
 ## 🎯 Usage
 
 The script will prompt you for:
