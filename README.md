@@ -34,7 +34,7 @@
 
 ```bash
 # Download and run the script
-wget https://raw.githubusercontent.com/shahinst/ollama-stack/install.sh
+wget https://github.com/shahinst/ollamastack/blob/main/install.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
